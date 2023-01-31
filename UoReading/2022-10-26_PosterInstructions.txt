@@ -1,0 +1,25 @@
+Dear all,
+ 
+In Week 6, we would like you to spend no more than 3 hours to produce a poster about the steps involved in a typical fMRI BOLD analysis.
+ 
+A poster is a visual aid designed to support an oral presentation. You will be asked to produce posters at various points in the programme, and we therefore thought it would be useful for you to engage in preparing this kind of material sooner rather later. For your convenience, these are the typical guidelines you may be given:
+ 
+1. Create your poster using the UoR template, found here: http://www.reading.ac.uk/dps/visualidentity/dps2-visualidentity-conferenceposters.aspx
+2. It should be A3, portrait
+3. Use an appropriate font size: this is up to you but it should be readable from about a metre away, but not too big
+4. You can use the Vancouver style of numeric referencing, with an abbreviated References section listing the author(s), abbreviated journal name (e.g. Br J Psychol), volume and page numbers. For guidance see: http://libguides.reading.ac.uk/citing-references/referencingstyles 
+5. Save your poster as a pdf
+6. Pdf posters should be submitted via Blackboard > PYM0FM > Learning Material > Lectures > Posters submission, by Monday 7th November, noon.
+7. We will review your submissions together on Monday 14th, in the CINN Conference (not G37). There will be a vote to follow, a price and pizza.
+ 
+The aim of this exercise is for you to consolidate your understanding of the steps involved in a typical analysis pipeline, and the decisions points that unfold. It is important that you do not spend more than 3 hours on the task: A poster is a very common way to communicate about research, and you would typically present the poster orally at a conference, to a group of fellow scientists. For this exercise, your target audience should be your fellow students. Although you might spend a lot more than 3 hours designing a poster for a real conference, we care more about you growing a high-level understanding of the series of steps, and why they follow such a specific order, than you spending time going deep into each step (which we will do together anyway). Present ideas simply. Do not go deep into details. Favour explaining images over big chunks of texts.
+ 
+The steps involved in the typical fMRI analysis are presented in several sources we have encountered already:
+Handbook of Functional MRI Data Analysis. Cambridge: Cambridge University Press. doi:10.1017/CBO9780511895029. Accessible from the library, see Reading List section of the module.
+Smith, S. M. (2004). Overview of fMRI analysis. The British Journal of Radiology, 77(suppl_2), S167–S175. https://doi.org/10/cmmp4k.
+Lindquist, M. A. (2008). The Statistical Analysis of fMRI Data. Statistical Science, 23(4), 439–464. https://doi.org/10.1214/09-STS282.
+Soares, J. M., Magalhães, R., Moreira, P. S., Sousa, A., Ganz, E., Sampaio, A., Alves, V., Marques, P., Sousa, N. (2016). A Hitchhiker’s Guide to Functional Magnetic Resonance Imaging. Frontiers in Neuroscience, 10. https://doi.org/10/gfztc4.
+ 
+Have an amazing week! :)
+ 
+Etienne and Nick
